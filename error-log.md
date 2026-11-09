@@ -12,7 +12,7 @@
 6. 单复数和冠词:**看到数字,就检查后面的名词有没有 s**(2,300 medals);prices(不是 price)、buses、injury rates;the 1989 level、the USA、three of the five cities。
 7. 数字变化:说幅度用 by(rose by 2%),说终点用 to(rose to 12% above …),不要混用。
 8. 时间搭配:between … **and** …,或 from … **to** …。
-9. 对照原图:每个结论、每个数字是否都和图一致?图比的是「变化」还是「数值」?有没有例外?
+9. 对照原图:每个结论、每个数字是否都和图一致?图比的是「变化」还是「数值」?有没有例外?概述的结论,和你自己主体段写的数据是否矛盾?
 10. 分号:只用来连接两个紧密相关的完整句子,后面小写,段末不用;拿不准就用句号。
 11. 主语:变化的是价格 / 数字,不是城市(prices in New York fell,不是 New York fell)。
 12. 通读:拼写检查器抓不出真词拼错,如 contract / contrast。
@@ -23,27 +23,31 @@
 
 > 逗号、句号后缺空格属于低优先级,从 03 v2 起不再计数(之前的计数里包含这一项,所以「大小写 / 标点」一行的前几次数字偏高)。
 
-| 错误类型 | 01 v1 | 01 v2 | 02 v1 | 02 v2 | 03 v1 | 03 v2 | 例子 | 备注 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 拼写 | 6 | 4 | 6 | 3 | 9 处 | 8 处 | 01: typies, milliion, seconde, almose, injurie, indidents, demond, firgure;02: 20002, Londo, Lodon, constrat, futher, steable, contract(应为 contrast), reamined;03: tweleve, sovilet, noticable, Gemany, brozen, fellowed | 03 里 Soviet 写错 9 次,是单词记错,不是手误 |
-| 时态 | 3 | 0 | 2 | 0 | 约 6 | 1 | has → had;remains → remained;won → has won;概述 was → is | 累计总数用现在完成时,概述用现在时 |
-| 主谓一致 | 1 | 1 | 0 | 0 | 2 | 0 | the bar chart compare;injuries was;the number … are | |
-| 大小写 / 标点(不含空格) | 几乎每句 | 5 | 约 9 | 约 9 | 约 7 | 约 6 | 分号后大写;段末 ;;缺句号;2300 → 2,300 | 段末分号、缺句号反复出现 |
-| 专有名词大小写 | — | — | — | — | 8 | 5 | sovilet union;china;Olympic games | |
-| 比较结构 | 4 | 3 | — | — | 3 | 1 | three times than buses;twice more than;by far higher;the number of the Soviet Union | 03 v2 里 more than twice 用对了 |
-| 单复数 / 冠词 | 多处 | 约 5 | 约 12 | 0 | 约 11 | 约 5 | price → prices;medal → medals;the USA;similar number → similar numbers | 数字后面的名词加 s,逐步改善 |
-| 漏词 / 语序 / 搭配 | — | 2 | 5 | 3 | 8 | 3 | between … to;where remained;following by;It is noticeable, most … | 缺 that 连续两版出现 |
-| 句子结构(逗号连接 / 重复主语) | — | — | — | — | 3 | 0 | …, sovilet union won …;they won | 03 v2 已改掉 |
-| 数字变化 by / to | — | — | 4 | 0 | — | — | fell by 7% below;fell to 5% | |
-| 用词 / 动词形式 | 2 | 2 | 2 | 0 | 1 | 1 | transportant;rosed;than medals or brozen medals | |
-| 内容准确性 | 1 | 1 | 1 | 0 | 1 | 0 | 01:铁路全部低于公交;02 v1:London 价格最高;03 v1:苏联金牌「less」 | 03 v2 改对 |
-| 信息遗漏 / 缩写 | 2 | 0 | 1 | 0 | 0 | 1 | 漏 changes in;漏 Four | |
+| 错误类型 | 01 v1 | 01 v2 | 02 v1 | 02 v2 | 03 v1 | 03 v2 | 04 首份* | 例子 | 备注 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 拼写 | 6 | 4 | 6 | 3 | 9 处 | 8 处 | 1 | 01: typies, milliion, seconde, almose, injurie, indidents, demond, firgure;02: 20002, Londo, Lodon, constrat, futher, steable, contract(应为 contrast), reamined;03: tweleve, sovilet, noticable, Gemany, brozen, fellowed;04: Tha | 03 里 Soviet 写错 9 次,是单词记错,不是手误 |
+| 时态 | 3 | 0 | 2 | 0 | 约 6 | 1 | 0 | has → had;remains → remained;won → has won;概述 was → is | 累计总数用现在完成时,概述用现在时 |
+| 主谓一致 | 1 | 1 | 0 | 0 | 2 | 0 | 1 | the bar chart compare;injuries was;the number … are;04: This figure drop |  |
+| 大小写 / 标点(不含空格) | 几乎每句 | 5 | 约 9 | 约 9 | 约 7 | 约 6 | 约 5 | 分号后大写;段末 ;;缺句号;2300 → 2,300 | 段末分号、缺句号反复出现 |
+| 专有名词大小写 | — | — | — | — | 8 | 5 | 0 | sovilet union;china;Olympic games |  |
+| 比较结构 | 4 | 3 | — | — | 3 | 1 | 0 | three times than buses;twice more than;by far higher;the number of the Soviet Union | 03 v2 里 more than twice 用对了 |
+| 单复数 / 冠词 | 多处 | 约 5 | 约 12 | 0 | 约 11 | 约 5 | 0 | price → prices;medal → medals;the USA;similar number → similar numbers | 数字后面的名词加 s,逐步改善 |
+| 漏词 / 语序 / 搭配 | — | 2 | 5 | 3 | 8 | 3 | 1 | between … to;where remained;following by;It is noticeable, most … | 缺 that 连续两版出现 |
+| 句子结构(逗号连接 / 重复主语) | — | — | — | — | 3 | 0 | 0 | …, sovilet union won …;they won | 03 v2 已改掉 |
+| 数字变化 by / to | — | — | 4 | 0 | — | — | — | fell by 7% below;fell to 5% |  |
+| 用词 / 动词形式 | 2 | 2 | 2 | 0 | 1 | 1 | 0 | transportant;rosed;than medals or brozen medals |  |
+| 内容准确性 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 01:铁路全部低于公交;02 v1:London 价格最高;03 v1:苏联金牌「less」;04:概述「雇主支持年轻人更常得到」与自己的数据矛盾 | 03 v2 改对 |
+| 信息遗漏 / 缩写 | 2 | 0 | 1 | 0 | 0 | 1 | 0 | 漏 changes in;漏 Four |  |
+
+> \* 04 的这份和修改版几乎一致(照抄 + 拼接),错误数不能和独立写的版本比较。
 
 ## 趋势
 
 - **同一篇从 v1 到 v2,进步很稳定:** 时态、单复数、比较、句子结构、内容准确性,每次都明显减少。
 - **持续存在、改不掉的是词形和固定细节:** Soviet、bronze、Germany、China 大写、段末分号 / 缺句号、It is noticeable that 缺 that。这些版本 1 都指出过,版本 2 还在,说明需要专门记忆,而不是靠批改。
 - **新文章的 v1 仍会退回:** 02 v2 改对的东西,03 v1 里又出现。所以每次写完版本 1 先过自查清单。
+- **04 的首份提交** 接近照抄修改版,错误很少,但这只说明抄写准确;独立写的版本要等隔几天后再看。
+- **概述的新问题:** 04 里的概述和作者自己主体段的数据互相矛盾,写完概述请用主体的数据检验。
 - **提醒:** 版本 2 是看着批改写的,进步有一部分来自对照。要看真实水平,看隔几天后的版本 3 和新文章的版本 1。
 
 ## 易错词表(写完逐个核对)
