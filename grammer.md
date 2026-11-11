@@ -225,3 +225,62 @@
 ### 单位
 
 `measured in billions of dollars`、`(in millions)`:单位用 **in**。图上写 `$ billions`,18 就是 `$18 billion`,不是 `$180 billion`。读图的第一步先写下单位。
+
+---
+
+## 四、比较级和最高级
+
+### 规则
+
+| 类型 | 比较级 | 最高级 | 例子 |
+| --- | --- | --- | --- |
+| 单音节短形容词 | -er | the -est | old → older → the **oldest**;new → the **newest**;small → the **smallest**;low → the **lowest** |
+| 以 -y 结尾 | -ier | the -iest | early → earlier → the **earliest** |
+| 较长的形容词、分词 | more + 原形 | the most + 原形 | the **most** extensive、the **most** used |
+| 「少」 | less / fewer | the least / the fewest | the **least** used、the **fewest** passengers |
+
+**不能叠加:** ✗ more lower、more younger、the most lower、the most old、the most new、the most small。
+
+### 速查(Task 1 常用)
+
+| 原形 | 比较级 | 最高级 |
+| --- | --- | --- |
+| high | higher | the highest |
+| low | lower | the lowest |
+| large | larger | the largest |
+| small | smaller | the smallest |
+| old | older | the oldest |
+| new | newer | the newest |
+| young | younger | the youngest |
+| long | longer | the longest |
+| big | bigger | the biggest |
+| fast | faster | the fastest |
+| slow | slower | the slowest |
+| popular | more popular | the most popular |
+| extensive | more extensive | the most extensive |
+| used | more used | the most used / the least used |
+
+### 自测
+
+1. The London underground is the ___ (old) system.
+2. The Los Angeles network is the ___ (new).
+3. The Kyoto network is the ___ (small) and the ___ (little) used.
+4. Germany had the ___ (low) overall spending.
+5. The population of India was ___ (young) than that of France.
+6. Handheld games had the ___ (high) sales in every year.
+7. The Washington DC underground is the ___ (extensive) of the three newer networks.
+
+<details>
+<summary>答案</summary>
+
+1. oldest  2. newest  3. smallest;least  4. lowest  5. younger  6. highest  7. most extensive
+</details>
+
+---
+
+## 五、Although 和 but、完整的句子
+
+- **although / though 和 but 不连用,二选一。** ✓ `Although Tokyo is third in size, it is the most used.` ✓ `Tokyo is third in size, but it is the most used.`
+- **每个句子要有主语和谓语。** `located in Paris`、`having opened in 1863`、`with 394 kilometres` 都是修饰成分,不能当谓语:`The second largest system, in Paris, **is** about half the size of …`。
+- **并列要平行。** ✗ `with 126 kilometres, and the annual passenger number is 144 million` ✓ `with 126 kilometres of route and an annual passenger number of 144 million`。
+- **which 指代最近的名词。** 不确定时,改用 `with + 名词` 补充信息。
