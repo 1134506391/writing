@@ -81,6 +81,11 @@
 | most **of** countries | most countries / most **of the** countries | 04 |
 | three **of** five cities | three of **the** five cities | 02 |
 | spending **of** France | French spending(或 spending **by** France) | 07 |
+| sales **on** four types of digital games | sales **of** | 08 |
+| measured **by** $10 billion | measured **in** billions of dollars | 08 |
+| **For** the next three years, … rose | **Over** the next three years | 08 |
+| rose **about** $4 billion | rose **by** about $4 billion | 08 |
+| sale of both **reach to** $3 billion | …reaching $3 billion | 08 |
 
 ### 怎么练
 
@@ -184,3 +189,39 @@
 2. French people, however, spent more than Italians on photographic film.
 3. Spending in developing countries, by contrast, fell from $55 billion to only $25 billion.
 </details>
+
+---
+
+## 三、respectively、sales、reach
+
+### respectively
+
+**只用来把前面的两个(或多个)名词,和后面的两个(或多个)数据,按顺序一一对应。放在数字后面(句末),一句只用一次。**
+
+| 写法 | 例子 |
+| --- | --- |
+| ✓ | Sales of mobile phone and online games reached about $3 billion and $2 billion **respectively**. |
+| ✓ | …overtook those of console games, at about $6 billion and $5 billion **respectively**. |
+| ✗ 放在动词前 | sales **respectively** overtook … |
+| ✗ 一句里用好几次 | **respectively** reach to … , **respectively** close to … |
+| ✗ 对应不上 | 只有一个主语,或主语和数据的个数不相等 |
+
+如果两个数据差不多,可以改用 `both`:`sales of both reached about $3 billion`。
+
+### sales、spending、turnover
+
+| 名词 | 单复数 | 动词 | 指代 |
+| --- | --- | --- | --- |
+| sales | 复数 | were | those of |
+| spending | 不可数 | was | that of |
+| turnover | 不可数 | was | that of |
+
+`sale`(单数)是「一次买卖 / 促销」,和「销售额」不同。
+
+### reach
+
+`reach` 是及物动词,后面直接接宾语,不加 to:`reached $3 billion`、`reached a peak of $18 billion`、`reaching about $3 billion`。用 to 的是 rise:`rose to $3 billion`。
+
+### 单位
+
+`measured in billions of dollars`、`(in millions)`:单位用 **in**。图上写 `$ billions`,18 就是 `$18 billion`,不是 `$180 billion`。读图的第一步先写下单位。
