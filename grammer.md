@@ -90,6 +90,10 @@
 | **with** eightfold | an increase **of** more than eightfold | 表02 |
 | all **of** countries | all **the** countries | 表02 |
 | **In** the newer networks, … the largest | **Of** the three newer networks, … | 表01 |
+| remain**100%** / remain **in** 41% | remained **at** 100% / remained **at** 41% | 表03 |
+| listen music | listen **to** music | 表03 |
+| owners who use **in** seven features | owners who used seven features | 表03 |
+| no figures for A **and** B | no figures for A **or** B | 表03 |
 
 ### 怎么练
 
@@ -330,3 +334,53 @@
 ### 5. where 后面要有完整的从句
 
 `the only country **where** waste output fell`。✗ `where reduce total`(缺主语)。
+
+
+---
+
+## 七、百分比表格常用的写法
+
+### 1. the percentage(单数)和 the percentages(复数)
+
+| 写法 | 例子 |
+| --- | --- |
+| 一个数据 | the **percentage** of owners searching the Internet rose from 41% to 73% |
+| 比较两个以上的数据 | the **percentages** for text messaging and photo-taking rose steadily |
+| ✗ | the percentages of calling(calling 不是被统计的对象) |
+| ✓ | the percentage of owners making calls / the figure for calls |
+
+### 2. 并列的功能要用平行的形式
+
+✗ text message and take photo
+✓ **text messaging** and **taking photos**:都是动名词(`making calls`、`playing games`、`searching the Internet`、`recording video`)。
+
+### 3. remain at + 数值
+
+| 写法 | 例子 |
+| --- | --- |
+| ✓ | remained **at** 100%;stayed **at** the same level (41%) |
+| ✗ | remain 100%;remain in 41% |
+
+### 4. 动词后面用副词
+
+`rose steadily`、`rose slowly`、`fell slightly`、`rose sharply`。✗ `rose steable`、`rose slow`。
+
+### 5. 倍数
+
+| 实际变化 | 写法 |
+| --- | --- |
+| 9 → 35(约 3.9 倍) | almost quadrupled / rose almost fourfold |
+| 17 → 42(约 2.5 倍) | more than doubled |
+| ✗ | was almost fourfold(缺动词) |
+
+### 6. no 后面用 or
+
+`there were no figures for Internet searches **or** video recording`,不写 `and`。
+
+### 7. listen to music
+
+`listen **to** music`;`use their phones to play games`。
+
+### 8. 过去时的检查方法
+
+「先定时态」这个提醒不够用,换成检查动作:**写完后把每个动词圈出来,逐个对着年份检查。** 只有描述表格本身的句子(`The table compares …`、`The table shows …`)用现在时,其余数据句全用过去时。

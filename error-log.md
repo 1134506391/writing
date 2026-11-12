@@ -6,7 +6,7 @@
 
 这五条是目前反复出现次数最多的。先过这五条,再看下面的完整清单。
 
-1. **时态:** 先定一个时态,全文统一。有具体年份、花出去的钱 → 过去时;累计到现在 → 现在完成时;没有年份的调查 → 一般现在时。
+1. **时态:** 先定一个时态,全文统一。有具体年份、花出去的钱 → 过去时;累计到现在 → 现在完成时;没有年份的调查 → 一般现在时。**写完后把每个动词圈出来,逐个检查**(这是出现次数最多的错误)。
 2. **比较和最高级:** 短形容词不加 more / most,直接加 -er / -est:higher、lower、younger、the lowest、the highest、the oldest、the newest、the smallest;长的形容词才用 most(the most used),「最少」是 the least used。than 后面用 that of(单数,含 spending)或 those of(复数)。
 3. **数字:** 读图第一步先写下单位(billions of dollars → $18 billion);千位加逗号(£170,000);单位照图写(billion、thousand);写完逐个回图核对,数字前后要对得上;复用句式时检查最高 / 最低有没有写反。
 4. **标点:** 每段用句号收尾,不用分号;分号后不大写;不用逗号连接两个完整句子。
@@ -33,6 +33,7 @@
 17. 最高级:the lowest / the highest / the oldest / the newest / the smallest(不写 the most lower / most old);spending 是不可数名词,配 was,用 that of。
 18. respectively:只用于两个以上的主语与数据一一对应,放在数字后面(句末),一句只用一次;sales 永远是复数(sales were、those of);reach 后面不加 to。
 19. 介词:sales **of**、measured **in**、**over** the next three years、rose **by**;详见 `grammar-notes.md`。
+21. 百分比:一个数据用 the percentage of owners(单数),比较多个数据用 the percentages for A and B;并列的功能用平行的动名词(text messaging and taking photos);动词后面用副词(rose steadily / slowly);remain **at** + 数值;listen **to** music;no … **or** …。
 20. 主语:变化的是数据,不是国家(waste production in Ireland rose,不写 Ireland rose);where 后面要有完整的从句;reduce 是及物动词(Korea reduced its waste output / waste output fell);数据属于哪一年:the figure **for** 1990。
 
 ## 错误类型统计
@@ -41,21 +42,21 @@
 
 > 逗号、句号后缺空格属于低优先级,从 03 v2 起不再计数(之前的计数里包含这一项,所以「大小写 / 标点」一行的前几次数字偏高)。
 
-| 错误类型 | 01 v1 | 01 v2 | 02 v1 | 02 v2 | 03 v1 | 03 v2 | 04 首份* | 05 v1 | 06 v1 | 07 v1 | 08 v1 | 表01 v1 | 表02 v1 | 例子 | 备注 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 拼写 | 6 | 4 | 6 | 3 | 9 处 | 8 处 | 1 | 4 词 / 约 14 处 | 2 词 / 3 处 | 3 词 / 4 处 | 4 词 / 4 处 | 5 词 / 9 处 | 1 词 / 2 处 | 01: typies, milliion, seconde, almose, injurie, indidents, demond, firgure;02: 20002, Londo, Lodon, constrat, futher, steable, contract(应为 contrast), reamined;03: tweleve, sovilet, noticable, Gemany, brozen, fellowed;04: Tha;05: popullation ×11, distubtion, By contact, signically;06: milion ×2, mores;07: comsumer, wtih, figuare ×2;08: figuare, resptively, onlie, constrast;表01: kilomenters ×3, kilomnters, kilometers(美式), thrid, palce, constrast, samll;表02: adn ×2 | 03 里 Soviet 写错 9 次,是单词记错,不是手误 |
-| 时态 | 3 | 0 | 2 | 0 | 约 6 | 1 | 0 | 约 12 | 0 | 约 6 | 约 6 | 3 | 3 | has → had;remains → remained;won → has won;概述 was → is;05: 全篇用现在时(1984 年应为过去时);07: Britain spend;the gap is small;Italy spend(应为过去时);08: grow, become, reach ×3, which is(应为过去时);表01: were、was ×2(表格现状应用现在时);表02: is ×2、reduce(应为过去时) | 累计总数用现在完成时,概述用现在时 |
-| 主谓一致 | 1 | 1 | 0 | 0 | 2 | 0 | 1 | 1 | 2 | 3 | 4 | 1 | 1 | the bar chart compare;injuries was;the number … are;04: This figure drop;06: The average education years was;the figure … were;07: The bar chart compare;The spending … were;08: The bar chart compare(第 3 次);the sale … were;表01: that of Kyoto and Los Angeles is(应为 those … are);表02: waste production … reduce |  |
-| 大小写 / 标点(不含空格) | 几乎每句 | 5 | 约 9 | 约 9 | 约 7 | 约 6 | 约 5 | 约 8 | 3 | 7 | 3 | 2 | 3 | 分号后大写;段末 ;;缺句号;2300 → 2,300;06: 中文顿号「、」;07: £170000 → £170,000 ×4;缺句号 ×3;08: that , handheld;7 billion,By;表01: 缺句号 ×2;表02: 缺句号 ×2;although,the | 段末分号、缺句号反复出现 |
-| 专有名词大小写 | — | — | — | — | 8 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | sovilet union;china;Olympic games |  |
-| 比较结构 | 4 | 3 | — | — | 3 | 1 | 0 | 6 | 1 | 5 | 3 | 7 | 2 | three times than buses;twice more than;by far higher;the number of the Soviet Union;05: more younger, more and more small, more elder, more proportion, far than;06: three times mores that those of(应为 more than three times that of);07: the most lower ×4(应为 the lowest);those of Italy(指单数 spending,应为 that of);08: had the most sales(应为 highest);that of(应为 those of);表01: the most old / new / small、lowest used、with most used、more … more than、half size of that of;表02: more than that total of other five countries;with eightfold(应为 an increase of more than eightfold) | 03 v2 里 more than twice 用对了 |
-| 单复数 / 冠词 | 多处 | 约 5 | 约 12 | 0 | 约 11 | 约 5 | 0 | 约 12 | 约 5 | 约 5 | 约 6 | 约 4 | 4 | price → prices;medal → medals;the USA;similar number → similar numbers;08: the sale ×5(应为 sales);of same period;表01: three underground railway system;London underground(缺 The);表02: all of countries;saw the increase trends;Poland adn Portugal's total(应为 the totals for …) | 数字后面的名词加 s,逐步改善 |
-| 漏词 / 语序 / 搭配 | — | 2 | 5 | 3 | 8 | 3 | 1 | 约 9 | 约 7 | 约 5 | 约 6 | 约 6 | 约 6 | between … to;where remained;following by;It is noticeable, most …;06: with exception spending …;1990, … 缺 In;education years;07: small in;tennis(应为 tennis racquets)×3;almost closing to;08: sales on(应为 of);four types digital games;measured by(应为 in);the figure of … not both given;For the next three years(应为 Over);表01: In the newer networks(应为 Of);Although … but;which annual passenger number is;with 126 kilometres, and the … number is(不平行);表02: the figure in 1990(应为 for);where reduce total(缺主语);Ireland rose(主语应为 waste production) | 缺 that 连续两版出现 |
-| 句子结构(逗号连接 / 重复主语) | — | — | — | — | 3 | 0 | 0 | 4 | 1 | 1 | 4 | 2 | 1 | …, sovilet union won …;they won;05: 逗号连接 ×3,「. while France has」片段;06: …countries,which rose from 11 to 15(重复);07: which six item is almost same;08: 逗号连接 ×4;表01: The second largest system located in Paris, with …(无谓语);Although …, but with most used(无主句);表02: …192 million tonnes, Japan, Poland adn Portugal saw …(逗号连接) | 03 v2 已改掉 |
-| 数字变化 by / to | — | — | 4 | 0 | — | — | — | — | — | — | 5 | — | 0 | fell by 7% below;fell to 5%;08: rose about(漏 by)×2;reach to ×3 |  |
-| 用词 / 动词形式 | 2 | 2 | 2 | 0 | 1 | 1 | 0 | 2 | 约 8 | 0 | 约 5 | 1 | 2 | transportant;rosed;than medals or brozen medals;06: spending on searching(应为 research)×3;rose double;rose slow;those 指代不清 ×3;08: respectively 滥用 ×4;phone(应为 mobile phone)×4;表01: way small;表02: the increase trends;reduce(不及物用法) |  |
-| 内容准确性 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 4 | 1 | 4 | 2 | 0 | 01:铁路全部低于公交;02 v1:London 价格最高;03 v1:苏联金牌「less」;04:概述「雇主支持年轻人更常得到」与自己的数据矛盾;05: 印度 70 岁以上写成 12%,法国 70–75 岁男性写成 22%(应约 2%);06: 研发支出单位错:1600 million(应为 $160 billion)×4;07: 英国胶卷 £170,000 写成 the most lower figure(应为 highest);08: measured by $10 billion;$180 billion(应为 nearly $18 billion);console(应为 handheld);not both given(应为 neither);表01: Kyoto 写成 Tokyo 的数据(155 km、1,927 million);which has 199 指代不清 | 03 v2 改对 |
-| 信息遗漏 / 缩写 | 2 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 漏 changes in;漏 Four |  |
+| 错误类型 | 01 v1 | 01 v2 | 02 v1 | 02 v2 | 03 v1 | 03 v2 | 04 首份* | 05 v1 | 06 v1 | 07 v1 | 08 v1 | 表01 v1 | 表02 v1 | 表03 v1 | 例子 | 备注 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 拼写 | 6 | 4 | 6 | 3 | 9 处 | 8 处 | 1 | 4 词 / 约 14 处 | 2 词 / 3 处 | 3 词 / 4 处 | 4 词 / 4 处 | 5 词 / 9 处 | 1 词 / 2 处 | 4 词 / 4 处 | 01: typies, milliion, seconde, almose, injurie, indidents, demond, firgure;02: 20002, Londo, Lodon, constrat, futher, steable, contract(应为 contrast), reamined;03: tweleve, sovilet, noticable, Gemany, brozen, fellowed;04: Tha;05: popullation ×11, distubtion, By contact, signically;06: milion ×2, mores;07: comsumer, wtih, figuare ×2;08: figuare, resptively, onlie, constrast;表01: kilomenters ×3, kilomnters, kilometers(美式), thrid, palce, constrast, samll;表02: adn ×2;表03: thought(应为 throughout)、steable、fourflod、percentags | 03 里 Soviet 写错 9 次,是单词记错,不是手误 |
+| 时态 | 3 | 0 | 2 | 0 | 约 6 | 1 | 0 | 约 12 | 0 | 约 6 | 约 6 | 3 | 3 | 约 9 | has → had;remains → remained;won → has won;概述 was → is;05: 全篇用现在时(1984 年应为过去时);07: Britain spend;the gap is small;Italy spend(应为过去时);08: grow, become, reach ×3, which is(应为过去时);表01: were、was ×2(表格现状应用现在时);表02: is ×2、reduce(应为过去时);表03: use ×5、become、remain ×2(2006–2010 应为过去时) | 累计总数用现在完成时,概述用现在时 |
+| 主谓一致 | 1 | 1 | 0 | 0 | 2 | 0 | 1 | 1 | 2 | 3 | 4 | 1 | 1 | 1 | the bar chart compare;injuries was;the number … are;04: This figure drop;06: The average education years was;the figure … were;07: The bar chart compare;The spending … were;08: The bar chart compare(第 3 次);the sale … were;表01: that of Kyoto and Los Angeles is(应为 those … are);表02: waste production … reduce;表03: the most second feature is text message and take photo |  |
+| 大小写 / 标点(不含空格) | 几乎每句 | 5 | 约 9 | 约 9 | 约 7 | 约 6 | 约 5 | 约 8 | 3 | 7 | 3 | 2 | 3 | 4 | 分号后大写;段末 ;;缺句号;2300 → 2,300;06: 中文顿号「、」;07: £170000 → £170,000 ×4;缺句号 ×3;08: that , handheld;7 billion,By;表01: 缺句号 ×2;表02: 缺句号 ×2;although,the;表03: 中文顿号「、」;Game playing / Music playing;P1 缺句号 | 段末分号、缺句号反复出现 |
+| 专有名词大小写 | — | — | — | — | 8 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | sovilet union;china;Olympic games |  |
+| 比较结构 | 4 | 3 | — | — | 3 | 1 | 0 | 6 | 1 | 5 | 3 | 7 | 2 | 3 | three times than buses;twice more than;by far higher;the number of the Soviet Union;05: more younger, more and more small, more elder, more proportion, far than;06: three times mores that those of(应为 more than three times that of);07: the most lower ×4(应为 the lowest);those of Italy(指单数 spending,应为 that of);08: had the most sales(应为 highest);that of(应为 those of);表01: the most old / new / small、lowest used、with most used、more … more than、half size of that of;表02: more than that total of other five countries;with eightfold(应为 an increase of more than eightfold);表03: the most use feature;the most second feature;The most changest(最高级叠加) | 03 v2 里 more than twice 用对了 |
+| 单复数 / 冠词 | 多处 | 约 5 | 约 12 | 0 | 约 11 | 约 5 | 0 | 约 12 | 约 5 | 约 5 | 约 6 | 约 4 | 4 | 约 10 | price → prices;medal → medals;the USA;similar number → similar numbers;08: the sale ×5(应为 sales);of same period;表01: three underground railway system;London underground(缺 The);表02: all of countries;saw the increase trends;Poland adn Portugal's total(应为 the totals for …);表03: the percentages of … ×6(应为 the percentage of);play game、take photo、no figure | 数字后面的名词加 s,逐步改善 |
+| 漏词 / 语序 / 搭配 | — | 2 | 5 | 3 | 8 | 3 | 1 | 约 9 | 约 7 | 约 5 | 约 6 | 约 6 | 约 6 | 5 | between … to;where remained;following by;It is noticeable, most …;06: with exception spending …;1990, … 缺 In;education years;07: small in;tennis(应为 tennis racquets)×3;almost closing to;08: sales on(应为 of);four types digital games;measured by(应为 in);the figure of … not both given;For the next three years(应为 Over);表01: In the newer networks(应为 Of);Although … but;which annual passenger number is;with 126 kilometres, and the … number is(不平行);表02: the figure in 1990(应为 for);where reduce total(缺主语);Ireland rose(主语应为 waste production);表03: who use in seven features;listen music(应为 listen to);only slightly fell;no figure for A and B(应为 or) | 缺 that 连续两版出现 |
+| 句子结构(逗号连接 / 重复主语) | — | — | — | — | 3 | 0 | 0 | 4 | 1 | 1 | 4 | 2 | 1 | 5 | …, sovilet union won …;they won;05: 逗号连接 ×3,「. while France has」片段;06: …countries,which rose from 11 to 15(重复);07: which six item is almost same;08: 逗号连接 ×4;表01: The second largest system located in Paris, with …(无谓语);Although …, but with most used(无主句);表02: …192 million tonnes, Japan, Poland adn Portugal saw …(逗号连接);表03: 逗号连接 ×4;and no figure for …(无谓语) | 03 v2 已改掉 |
+| 数字变化 by / to | — | — | 4 | 0 | — | — | — | — | — | — | 5 | — | 0 | 2 | fell by 7% below;fell to 5%;08: rose about(漏 by)×2;reach to ×3;表03: remain100%、remain in 41%(应为 remained at) |  |
+| 用词 / 动词形式 | 2 | 2 | 2 | 0 | 1 | 1 | 0 | 2 | 约 8 | 0 | 约 5 | 1 | 2 | 3 | transportant;rosed;than medals or brozen medals;06: spending on searching(应为 research)×3;rose double;rose slow;those 指代不清 ×3;08: respectively 滥用 ×4;phone(应为 mobile phone)×4;表01: way small;表02: the increase trends;reduce(不及物用法);表03: rose steable(应为 steadily);was almost fourflod(应为 almost quadrupled);the percentages of calling |  |
+| 内容准确性 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 4 | 1 | 4 | 2 | 0 | 1 | 01:铁路全部低于公交;02 v1:London 价格最高;03 v1:苏联金牌「less」;04:概述「雇主支持年轻人更常得到」与自己的数据矛盾;05: 印度 70 岁以上写成 12%,法国 70–75 岁男性写成 22%(应约 2%);06: 研发支出单位错:1600 million(应为 $160 billion)×4;07: 英国胶卷 £170,000 写成 the most lower figure(应为 highest);08: measured by $10 billion;$180 billion(应为 nearly $18 billion);console(应为 handheld);not both given(应为 neither);表01: Kyoto 写成 Tokyo 的数据(155 km、1,927 million);which has 199 指代不清;表03: almost doubled(17 → 42 应为 more than doubled) | 03 v2 改对 |
+| 信息遗漏 / 缩写 | 2 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 漏 changes in;漏 Four |  |
 
 > \* 04 的这份和修改版几乎一致(照抄 + 拼接),错误数不能和独立写的版本比较。
 
@@ -64,6 +65,7 @@
 - **同一篇从 v1 到 v2,进步很稳定:** 时态、单复数、比较、句子结构、内容准确性,每次都明显减少。
 - **持续存在、改不掉的是词形和固定细节:** Soviet、bronze、Germany、China 大写、段末分号 / 缺句号、It is noticeable that 缺 that。这些版本 1 都指出过,版本 2 还在,说明需要专门记忆,而不是靠批改。
 - **新文章的 v1 仍会退回:** 02 v2 改对的东西,03 v1 里又出现。所以每次写完版本 1 先过自查清单。
+- **表03 v1(表格):** 数据读对、七项功能全覆盖;介词有进步(Over、between … and、from … to 都对),rose slowly 副词用对。**时态错误约 9 处**(use、is、become、remain),是出现次数最多的一类(05 v1 约 12、07 v1 约 6、08 v1 约 6、表02 约 3、表03 约 9),所以把检查方法改成「写完把每个动词圈出来逐个检查」。又出现:中文顿号、逗号连接分句、rose steable(06 的 rose slow)、最高级叠加(the most changest)。新增:percentages 单复数(6 处)、remain at、listen to music。
 - **表02 v1(表格):** 缺失数据处理得当,倍数、respectively、from … to 都用对,没有内容错误,拼写错误只有 2 处(表01 是 9 处)。又出现的老问题:all of countries(04 的 most of countries)、where 后面缺主语(柱图 02)、国家当主语(`Ireland rose`,和柱图 02 的 New York fell 同类)、逗号连接分句、缺句号、数据属于哪一年要用 for。这篇没有用到最高级,所以最高级是否改掉了,要看下一篇。
 - **表01 v1(表格):** 数据覆盖全、千位逗号全对、respectively 用对。最大的问题是**最高级**:the most old / new / small,这是第五次(more lower、more younger、the most lower、the most old …),规则只有一条:单音节短形容词直接加 -est。另有一处内容错误(Tokyo 写成 Kyoto)、两个句子缺谓语、Although … but 连用、时态混用。constrast 与 08 的拼法完全相同。
 - **08 v1 对比 07 v1:** 最高级叠加(the most lower)消失了,`closing to` 改成了 `close to`,概述有层次,还补上了交叉点。又出现的老问题:The bar chart compare 缺 s(第 3 次)、the figure of、漏 by、contrast 拼错(已有四种拼法)、逗号连接分句、时态。新问题:sale / sales、respectively 滥用、reach to、单位和数量级(`$10 billion`、`$180 billion`,4 处内容错误中有 3 处与单位有关)。
@@ -123,6 +125,10 @@
 | palce | place | |
 | samll | small | |
 | adn | and | |
+| thought(指 throughout) | **throughout** | thought 是真词,检查器抓不出 |
+| steable | **steadily** | 动词后用副词 |
+| fourflod | fourfold | |
+| percentags | percentages | |
 
 ## 登记模板(新增一篇时复制)
 
