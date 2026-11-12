@@ -86,6 +86,10 @@
 | **For** the next three years, … rose | **Over** the next three years | 08 |
 | rose **about** $4 billion | rose **by** about $4 billion | 08 |
 | sale of both **reach to** $3 billion | …reaching $3 billion | 08 |
+| the figure **in** 1990 | the figure **for** 1990 | 表02 |
+| **with** eightfold | an increase **of** more than eightfold | 表02 |
+| all **of** countries | all **the** countries | 表02 |
+| **In** the newer networks, … the largest | **Of** the three newer networks, … | 表01 |
 
 ### 怎么练
 
@@ -284,3 +288,45 @@
 - **每个句子要有主语和谓语。** `located in Paris`、`having opened in 1863`、`with 394 kilometres` 都是修饰成分,不能当谓语:`The second largest system, in Paris, **is** about half the size of …`。
 - **并列要平行。** ✗ `with 126 kilometres, and the annual passenger number is 144 million` ✓ `with 126 kilometres of route and an annual passenger number of 144 million`。
 - **which 指代最近的名词。** 不确定时,改用 `with + 名词` 补充信息。
+
+---
+
+## 六、变化的主语、及物动词、倍数
+
+### 1. 国家不能当变化的主语,要写数据
+
+| 写法 | 例子 |
+| --- | --- |
+| ✗ | Ireland rose too. / New York fell. |
+| ✓ | **Waste production in Ireland** rose too. |
+| ✓ | Ireland **saw a rise** in waste production. |
+| ✓ | **Ireland's waste output** rose. |
+| ✓ | **Prices in New York** fell. |
+
+### 2. 及物动词和不及物动词
+
+| 动词 | 用法 | 例子 |
+| --- | --- | --- |
+| rise / fall | 不及物 | Waste output **rose** / **fell**. |
+| increase / decrease | 两可 | Waste output **increased**. / Korea **increased** its output. |
+| reduce / cut / raise | 及物(接宾语) | Korea **reduced** / **cut** its waste output. |
+
+✗ `waste production in Korea reduce from 31 to 19`;✓ `waste production fell from 31 to 19` 或 `Korea reduced its waste output from 31 to 19`。
+
+### 3. 倍数
+
+| 写法 | 例子 |
+| --- | --- |
+| 副词用法 | increased **more than eightfold** |
+| 名词用法 | **an increase of** more than eightfold |
+| ✗ | with eightfold |
+
+0.6 → 5 是 8.3 倍,所以 `more than eightfold`;28 → 53 是 1.9 倍,所以 `almost doubled`。
+
+### 4. 数据属于谁:for
+
+`the figure **for** 1990`、`the totals **for** Poland and Portugal`。不写 `the figure in 1990`、`Poland and Portugal's total`。
+
+### 5. where 后面要有完整的从句
+
+`the only country **where** waste output fell`。✗ `where reduce total`(缺主语)。
