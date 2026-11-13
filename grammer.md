@@ -98,6 +98,11 @@
 | share **in** consumer spending **of** each country | share **of** consumer spending **in** each country | 表04 |
 | the largest consumer spending **in** food | the largest proportion of spending **on** food | 表04 |
 | than any **all of** other countries | than any of **the** other countries | 表04 |
+| 12% **in** couple with children | 12% **of** couples with children | 表05 |
+| live **under** poverty | living **below** the poverty line / **in** poverty | 表05 |
+| **among the** poverty | **in** poverty | 表05 |
+| half **than** total | half **of** the total | 表05 |
+| only **at** 7% | **at only** 7% | 表05 |
 
 ### 怎么练
 
@@ -428,3 +433,49 @@
 - `than any of the other countries`:any 和 all 不连用,of 后面要有 the。
 - 每一项数据都要写清是谁的:`Spain had the smallest share for leisure and education`,不写 `leisure and education was smallest`。
 - **开头句动词加 s:** `The table / chart shows / compares …`(单数主语)。写完第一句先圈出主语和动词。
+
+---
+
+## 九、poverty / poor,一类人的写法,读表对标签
+
+### 1. poverty 是名词,poor 是形容词
+
+| ✗ | ✓ |
+| --- | --- |
+| more likely poverty | more likely to be **poor** |
+| classed as poverty | classed as **poor** |
+| the last possible poverty | the **least likely** to be poor |
+| live under poverty | live **in poverty** / live **below the poverty line** |
+
+### 2. 一类人用复数,用表里的原词
+
+| 表里的说法 | 正文里 |
+| --- | --- |
+| single aged person | single aged people |
+| aged couple | aged couples |
+| single, no children | single people with no children |
+| couple, no children | couples without children |
+| sole parent | sole parents(不是 solo parent) |
+| couple with children | couples with children |
+
+### 3. 读表:逐行对准标签
+
+写完以后,把每个数字回到表里,和它所在的行标签核对一遍。常见的错误是把相邻的两行标签混了(Tokyo / Kyoto;19% 属于 single, no children,不属于 single aged person)。
+
+### 4. 百分比、分数的介词
+
+| 写法 | 例子 |
+| --- | --- |
+| 百分比 + **of** + 人群 | 12% **of** couples with children |
+| 分数 + **of** | just over one fifth **of** sole parents;half **of** the total |
+| the figure / rate **for** + 人群 | the figure **for** couples |
+| **among** + 人群 | considerably lower **among** elderly people |
+| **in** poverty / **below** the poverty line | 19% … were living below the poverty line |
+
+### 5. 数字格式
+
+`933,000 people`;`0.933 million`(million 不加 s)。
+
+### 6. 开头句的固定句型
+
+**The table gives information about …** / **The table shows …** / **The table compares …**。写完第一句,先圈出主语和动词。
