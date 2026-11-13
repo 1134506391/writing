@@ -94,6 +94,10 @@
 | listen music | listen **to** music | 表03 |
 | owners who use **in** seven features | owners who used seven features | 表03 |
 | no figures for A **and** B | no figures for A **or** B | 表03 |
+| accounted **the** largest share | account **for** the largest share | 表04 |
+| share **in** consumer spending **of** each country | share **of** consumer spending **in** each country | 表04 |
+| the largest consumer spending **in** food | the largest proportion of spending **on** food | 表04 |
+| than any **all of** other countries | than any of **the** other countries | 表04 |
 
 ### 怎么练
 
@@ -384,3 +388,43 @@
 ### 8. 过去时的检查方法
 
 「先定时态」这个提醒不够用,换成检查动作:**写完后把每个动词圈出来,逐个对着年份检查。** 只有描述表格本身的句子(`The table compares …`、`The table shows …`)用现在时,其余数据句全用过去时。
+
+---
+
+## 八、account for、share 和占比的写法
+
+### 1. account for:主语是「占比的部分」
+
+| 写法 | 例子 |
+| --- | --- |
+| ✓ | Food, drinks and tobacco **accounted for** the largest share of consumer spending. |
+| ✓ | Food accounted for 32.14% of Turkey's consumer spending. |
+| ✗ | accounted the largest share(漏 for) |
+| ✗ | Turkey accounted the largest share …(国家不能当主语) |
+| ✓ | Turkey **had** the largest share for leisure and education. |
+| ✓ | Turkey **spent** the largest proportion of its expenditure on food. |
+
+### 2. 占比的介词:of 接总体,for 接类别,in 接国家,on 接商品
+
+| 搭配 | 例子 |
+| --- | --- |
+| share **of** + 总体 | the largest share **of** consumer spending |
+| share **for** + 类别 | the share **for** clothing and footwear |
+| … **in** + 国家 | higher **in** Italy |
+| spending **on** + 商品 | spending **on** food |
+
+一个完整的句子:`Food accounted for the largest share **of** consumer spending **in** every country.`
+
+### 3. 比例,不是金额
+
+| 写法 | 说明 |
+| --- | --- |
+| ✓ the largest **proportion of** consumer spending **on** food | 比例 |
+| ✓ the largest **share for** food | 比例 |
+| ✗ the largest consumer spending in food | 读起来像金额 |
+
+### 4. 其他
+
+- `than any of the other countries`:any 和 all 不连用,of 后面要有 the。
+- 每一项数据都要写清是谁的:`Spain had the smallest share for leisure and education`,不写 `leisure and education was smallest`。
+- **开头句动词加 s:** `The table / chart shows / compares …`(单数主语)。写完第一句先圈出主语和动词。
