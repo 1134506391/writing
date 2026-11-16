@@ -103,6 +103,10 @@
 | **among the** poverty | **in** poverty | 表05 |
 | half **than** total | half **of** the total | 表05 |
 | only **at** 7% | **at only** 7% | 表05 |
+| with 144% increase | **an increase of** 144% | 表06 |
+| **among** twelve areas | **of the** twelve areas | 表06 |
+| The cycle commuter **of** Bristol | The number of cycling commuters **in** Bristol | 表06 |
+| all **low** 10,000 | **below** / **fewer than** 10,000 | 表06 |
 
 ### 怎么练
 
@@ -479,3 +483,59 @@
 ### 6. 开头句的固定句型
 
 **The table gives information about …** / **The table shows …** / **The table compares …**。写完第一句,先圈出主语和动词。
+
+---
+
+## 十、变化的主语、增长率、读表覆盖
+
+### 1. 变化的主语是「人数」,不是人
+
+| ✗ | ✓ |
+| --- | --- |
+| cycle commuter rose | **the number of** cycling commuters rose |
+| Ireland rose | **Waste production in** Ireland rose |
+| New York fell | **Prices in** New York fell |
+
+### 2. every + 单数
+
+`every area`、`each country`、`every year`。
+
+### 3. 增长率的写法
+
+| 写法 | 例子 |
+| --- | --- |
+| an increase **of** 144% | …rose to 106,219 in 2011, an increase of 144% |
+| a 144% increase | …a 144% increase over the period |
+| rose **by** 144% | |
+| its percentage increase was only 45% / its rate of increase | |
+| ✗ | increase rate;with 144% increase |
+
+### 4. 增长率和倍数
+
++100% = 翻倍;+144% = more than doubled(2.44 倍);+94% = almost doubled;+45% = 增加了不到一半。
+
+### 5. 抄写数字后逐位核对
+
+`33,836` 写成 `33,869`。写完以后,把每个数字回到表里,逐位对一遍(包括逗号和小数点)。
+
+### 6. 概述里的年份和结论要对
+
+- `by far the highest` 要对着具体的年份:2001 年内伦敦 43,494 对外伦敦 33,836,不算 by far;2011 年才是。
+- 整个时期的增长,不要放在 `In 2001` 下面。
+- population(人口)不等于骑车人数,写 `the number of cycling commuters`。
+
+### 7. respectively 前面要先有两个对应的项目
+
+`had the second highest numbers in 2001 and 2011, at 33,836 and 49,070 respectively`。
+
+### 8. 分词:, ranking third
+
+逗号后面用 ing 分词,不写 `, rank third,`。
+
+### 9. 读题,看清范围
+
+`different areas of the UK`,不是伦敦。伦敦是其中的 Inner London 和 Outer London。
+
+### 10. 大表要覆盖两个角度
+
+12 个地区 × 2 个年份 + 增长率:第 3 段写数量(最大的几个),第 4 段写增长率(最高、最低的几个)。只写一个角度,会漏掉一半的信息。
