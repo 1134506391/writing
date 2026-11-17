@@ -107,6 +107,10 @@
 | **among** twelve areas | **of the** twelve areas | 表06 |
 | The cycle commuter **of** Bristol | The number of cycling commuters **in** Bristol | 表06 |
 | all **low** 10,000 | **below** / **fewer than** 10,000 | 表06 |
+| spent **average** nearly $700 | spent **an average of** nearly $700 | 线01 |
+| **recude** around $150 / rose **aound** $300 | fell **by** around $150 / rose **by** around $300 | 线01 |
+| **Then** 2000 | **In** 2010 | 线01 |
+| the point **that** | the point **at which** | 线01 |
 
 ### 怎么练
 
@@ -539,3 +543,51 @@
 ### 10. 大表要覆盖两个角度
 
 12 个地区 × 2 个年份 + 增长率:第 3 段写数量(最大的几个),第 4 段写增长率(最高、最低的几个)。只写一个角度,会漏掉一半的信息。
+
+---
+
+## 十一、线图的写法
+
+### 1. 四段结构,开头句不能省略
+
+开头句 + 概述 + 两个主体段。开头句是对题目的改写:`The line graph compares / shows … from 2001 to 2010.`。
+
+### 2. 交叉点:the point at which
+
+| 写法 | 例子 |
+| --- | --- |
+| ✓ | The year 2006 marks **the point at which** spending on mobile services overtook that on residential services. |
+| ✓ | In 2006, the two figures were equal, at just over $500. |
+| ✗ | The 2006 marked startup that …(startup 是「开始」) |
+
+### 3. 超过的是「花费」,不是 service
+
+✗ `the mobile service overtook residential service`
+✓ `spending on mobile services overtook that on residential services`
+
+### 4. rise / fall / drop + by + 幅度
+
+| 写法 | 例子 |
+| --- | --- |
+| ✓ | fell **by** around $150;rose **by** around $300 |
+| ✗ | recude around $150;rose aound $300(漏 by) |
+
+### 5. reduce 是及物动词
+
+`reduce` 后面要有宾语:`the company reduced its costs`。下降用 `fell / dropped / decreased`。
+
+### 6. an average of
+
+`spent **an average of** nearly $700`。
+
+### 7. half
+
+`just over half **that amount**` / `just over half **of** that amount`。✗ `half than the total`。
+
+### 8. 年份写完回图核对
+
+`Then 2000`:图是 2001–2010,2000 不在范围里。
+
+### 9. 估读用近似词
+
+`nearly`(略低于)、`around`、`just over`(略高于)、`approximately`、`about`。
