@@ -111,6 +111,10 @@
 | **recude** around $150 / rose **aound** $300 | fell **by** around $150 / rose **by** around $300 | 线01 |
 | **Then** 2000 | **In** 2010 | 线01 |
 | the point **that** | the point **at which** | 线01 |
+| the fastest increase **on** internet usage | the fastest increase **in** Internet usage | 线02 |
+| The figure **in** Canada and Mexican | The figures **for** Canada and Mexico | 线02 |
+| rose **all over the time** shown | rose **over the period** shown | 线02 |
+| Almost 100% Canada | Almost 100% **of** Canadians | 线02 |
 
 ### 怎么练
 
@@ -591,3 +595,46 @@
 ### 9. 估读用近似词
 
 `nearly`(略低于)、`around`、`just over`(略高于)、`approximately`、`about`。
+
+---
+
+## 十二、国家名、国民、the Internet
+
+### 1. 国家名、国民、形容词要分清
+
+| 国家 | 一个国家的人(复数) | 形容词 |
+| --- | --- | --- |
+| the USA / America | Americans | American |
+| Canada | Canadians | Canadian |
+| Mexico | Mexicans | Mexican |
+
+| ✗ | ✓ |
+| --- | --- |
+| in Mexican / in Americian | in Mexico / in the USA |
+| Canada and American had … | Canada and the USA had … / Canadians and Americans had … |
+| Almost 100% Canada | Almost 100% **of Canadians** |
+
+### 2. the Internet 固定带 the
+
+`the Internet`、`access to the Internet`、`used the Internet`。✗ `access internet`。
+
+### 3. increase / growth in + 事物
+
+`growth in Internet usage`;✗ `increase on`。
+
+### 4. the figures for + 国家
+
+`The figures for Canada and Mexico were lower`。
+
+### 5. 比例,不是人口
+
+`Canada's figure grew faster than that of the USA`;✗ `the population increase of Canada`。
+
+### 6. 每个分句要有动词;逗号不连接两个分句
+
+✗ `while the percentage of people just over 25% in Mexican`
+✓ `while the figure for Mexico was just over 25%`
+
+### 7. 纵轴没有数字时,数字前加 about
+
+`was about 20%`;`at about 10% and 5% respectively`。
