@@ -115,6 +115,10 @@
 | The figure **in** Canada and Mexican | The figures **for** Canada and Mexico | 线02 |
 | rose **all over the time** shown | rose **over the period** shown | 线02 |
 | Almost 100% Canada | Almost 100% **of** Canadians | 线02 |
+| Looking **at** the future | Looking **into** the future | 线03 |
+| from X **jump** to Y | **moving** from X to Y | 线03 |
+| until early 2000 | until **the early 2000s** | 线03 |
+| 15% **percentages** | a jump **of** 15 **percentage points** | 线03 |
 
 ### 怎么练
 
@@ -638,3 +642,51 @@
 ### 7. 纵轴没有数字时,数字前加 about
 
 `was about 20%`;`at about 10% and 5% respectively`。
+
+---
+
+## 十三、预测句和线图里的未来
+
+### 1. 预测的写法
+
+| ✗ | ✓ |
+| --- | --- |
+| It is **expect** that | It is **expected** that |
+| will suddenly **rose** | will suddenly **rise** |
+| will **slight lower** | will **be slightly** lower |
+
+模式:`It is expected / predicted / estimated that + 主语 + will + 动词原形`;`主语 + is expected / predicted to + 动词原形`。**will 后面永远是动词原形。**
+
+### 2. 概述的时态
+
+图跨过去和未来时,概述用一般现在时:`the proportion … rises in each country`;或 `is expected to rise`。
+
+### 3. 每个分句要有谓语动词
+
+| ✗ | ✓ |
+| --- | --- |
+| around 9% of Americans aged 65 or over, while … | the proportion of Americans aged 65 or over **was** around 9%, while … |
+| around 27% of Japan aged 65 or over | around 27% of the Japanese population **will be** aged 65 or over |
+
+`aged 65 or over` 只是修饰成分,不是动词。
+
+### 4. 说清楚比例的对象
+
+`the proportion of elderly people in each country`;✗ `the proportion of each country`、`the proportion of population`。
+
+### 5. from … to … 中间不插动词
+
+✗ `from the lowest proportion jump to the highest`
+✓ `moving from the lowest proportion to the highest`
+
+### 6. 百分点
+
+`a jump of over 15 percentage points`。✗ `15% percentages`。
+
+### 7. 副词
+
+`will be slightly lower`;✗ `will slight lower`。
+
+### 8. 年代、介词
+
+`the early 2000s`;`Looking into the future`;`in the USA`(不是 in American)。
