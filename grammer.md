@@ -119,6 +119,21 @@
 | from X **jump** to Y | **moving** from X to Y | 线03 |
 | until early 2000 | until **the early 2000s** | 线03 |
 | 15% **percentages** | a jump **of** 15 **percentage points** | 线03 |
+| Looking **the** information | Looking **at** the information | 饼01 |
+| was applied **in** this approach | This method is used **for** 55% … | 饼01 |
+| recycled 69% dangerous … | recycles 69% **of** its dangerous waste | 饼01 |
+| not applied in A **and** B | not used in A **or** B | 饼01 |
+| people **came to UK for live** | people **came to live in the UK** | 混01 |
+| remained **the level** | remained **at a similar level** | 混01 |
+| in **thousand of** people | in **thousands** of people | 混01 |
+| from the lowest point **of** 20°C | from its lowest point **at** around 20°C | 混02 |
+| **kept over** 250mm | **remains above** 250mm | 混02 |
+| over **last** three months | over **the** last three months | 混02 |
+| in **12** | in **December** | 混02 |
+| the water used **in** agriculture | the water used **for** agriculture | 混03 |
+| proportion **in it** | proportion **of the water used** | 混03 |
+| **reach at** 26500 | **reached** 26,500km² | 混03 |
+| 45 times **than** Congo | 45 times **that in** the Congo | 混03 |
 
 ### 怎么练
 
@@ -690,3 +705,198 @@
 ### 8. 年代、介词
 
 `the early 2000s`;`Looking into the future`;`in the USA`(不是 in American)。
+
+---
+
+## 十四、饼图和「没有年份」的图
+
+### 1. 时态由「有没有年份」决定
+
+| 图 | 时态 |
+| --- | --- |
+| 有具体年份(1990、2005) | 过去时 |
+| 没有年份(这张饼图、表格 01 地下铁) | **一般现在时** |
+
+### 2. 处理方式用被动
+
+`is buried underground`、`is recycled`、`is put into landfill sites`、`is incinerated`。国家是动作的主体时也可以用主动:`Korea recycles 69%`、`the UK does not recycle at all`。
+
+### 3. 图的类型
+
+`The pie charts`、`The bar chart`、`The line graph`、`The table`、`The diagram`。
+
+### 4. waste 不可数
+
+| ✗ | ✓ |
+| --- | --- |
+| dangerous waste productions | dangerous waste / dangerous waste products |
+
+### 5. most / most of the
+
+`most dangerous waste`、`most of the dangerous waste`。✗ `most of dangerous waste`。
+
+### 6. 比较:比例对比例
+
+`much higher than in the other two countries`。✗ `much higher than other two countries`。
+
+### 7. While 和 although 不连用
+
+✗ `Although 25% … was recycled, while the UK didn't.`
+✓ `While 25% … is recycled, the UK does not recycle at all.`
+
+### 8. 否定用 neither / or
+
+`Neither of these two methods is used in Korea or Sweden.`。✗ `Both two approach were not applied in … and …`。
+
+### 9. 代词和缩写
+
+`dumps waste at sea or treats it chemically`。✗ `dumped that … handled that …`。不用缩写:`does not recycle`。
+
+### 10. 占比的介词
+
+`incineration for 9% of dangerous waste`;`used for 55%`;`Looking at the information`。
+
+---
+
+## 十五、混合图:系列标签、单位、immigration
+
+### 1. 三个系列的标签要对准
+
+写之前在草稿纸上列一张小表:
+
+| 年份 | I 迁入 | E 迁出 | N 净移民 |
+| --- | --- | --- | --- |
+| 1999 | 450 | 290 | 165 |
+| … | … | … | … |
+
+**N = I − E**,用它验算。写每个数字前问自己:这是哪一列?
+
+### 2. immigration、immigrants、emigrate
+
+| 词 | 意思 | 例句 |
+| --- | --- | --- |
+| immigration | 迁入(抽象) | immigration rose by around 150,000 people |
+| immigrants | 迁入的人(可数) | the number of immigrants was significantly higher |
+| emigration | 迁出 | emigration fell suddenly in 2007 |
+| emigrate | 迁出(动词) | the number of people who emigrated |
+| net migration | 净移民 | net migration was positive throughout |
+
+✗ `the number of immigration`;✓ `the number of immigrants`,或直接 `immigration rose by …`。
+
+### 3. 单位换算:thousands
+
+| 图上 | 正文里 |
+| --- | --- |
+| 450 | 450,000 / 450 thousand / 0.45 million |
+| 300 | just under 300,000 / 0.3 million |
+| ✗ | 0.3 **billion** |
+
+1 million = 1,000 thousand;1 billion = 1,000 million。
+
+### 4. 开头句的动词
+
+`The chart **gives** information about …` / `shows` / `compares`。`given` 是过去分词,不能当谓语。
+
+### 5. 其他
+
+- `came to live in the UK`(to + 动词原形;in the UK)。
+- `remained at a similar level`。
+- `it peaked at 420,000`(peak 做动词要变形)。
+- `while there was a much smaller rise in emigration`(说的是「上升幅度」)。
+- 年份写完回图核对(1999–2008,不是 1994)。
+
+---
+
+## 十六、气候图:rainfall、月份名、没有年份
+
+### 1. rainfall,不是 fallrain
+
+`rainfall` = rain + fall(rain 在前)。`rainfall` 和 `precipitation` 是不可数名词,配 is:`Rainfall is highest in July.`。
+
+### 2. 月份名:拼对,首字母大写
+
+January、February、March、April、May、June、July、August、September、October、November、December。
+
+| ✗ | ✓ |
+| --- | --- |
+| junaury | January |
+| auguest | August |
+| sertempure | September |
+| july、june | July、June |
+
+### 3. 没有年份 → 全篇一般现在时
+
+`rises`、`remains`、`stays`、`peaks`、`falls`。不要写成 `rose`、`kept`、`doubled`。写完圈出每个动词。
+
+### 4. 形容词和副词
+
+`falls dramatically`(副词);`stable`(形容词)、`steadily`(副词)。✗ `fall dramict`、`steable`。
+
+### 5. 主谓一致
+
+`Rainfall is highest`;`temperatures are highest` / `the temperature is highest`;`the temperature stays stable`。
+
+### 6. remain / stay + 形容词 / 介词
+
+`remains stable`、`stays roughly the same`、`remains above 250mm`。✗ `keep steable`、`kept over`。
+
+### 7. more than doubles
+
+`the rainfall more than doubles`。✗ `doubled more`。
+
+### 8. 不用缩写
+
+`wasn't enough 10mm` → `is under 10mm` / `is less than 10mm`。
+
+### 9. the January average
+
+`back to the January average`。✗ `the average level of junaury`。
+
+---
+
+## 十七、混合图(图 + 表):数字、年份、单位
+
+### 1. 数字、年份、单位:写完逐个对图
+
+| ✗ | ✓ |
+| --- | --- |
+| 1990 | 1900(图是 1900–2000) |
+| 500km2 | 500km³ |
+| 3km2 | 3,000km³ |
+| 0.5km2 | 500km³ |
+| around 329 | around 359m³ |
+| only 8 | only 8m³ |
+| 0.52 million | 5.2 million |
+| 26500 kim | 26,500km² |
+
+### 2. 三个单位
+
+`km³`(立方公里,水量)、`km²`(平方公里,面积)、`m³`(立方米)。数字后面要带单位。
+
+### 3. 拼写
+
+agriculture、domestic、irrigated、accounted(account **for**)。
+
+### 4. 副词
+
+`considerably higher`;✗ `considerable higher`。
+
+### 5. 分数、倍数、times
+
+| ✗ | ✓ |
+| --- | --- |
+| one of the five | one fifth of that amount |
+| over than 10 times | more than ten times |
+| 45 times than Congo | about 45 times that in the Congo |
+
+### 6. 三个并列的项目用 and 连接
+
+✗ `…, that of industry rose …, that of home rose …`
+✓ `…, that of industry had risen …, and that of domestic use had reached …`
+
+### 7. 其他
+
+- `reached 26,500km²`(reach 后面不加 at / to)。
+- `176 million`(million 不加 s);`the populations … were`。
+- `In proportional terms, industrial use rose fastest`(✗ According to proportion)。
+- 主语是 industrial use / water use,不是 industry。
